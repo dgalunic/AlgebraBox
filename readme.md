@@ -1,6 +1,6 @@
 # Algebra BOX
 
-[![Build Status](https://travis-ci.org/tkescec/AlgebraBox.svg?branch=master)](https://travis-ci.org/tkescec/AlgebraBox)
+[![Build Status](https://travis-ci.org/dgalunic/AlgebraBox?branch=master)](https://travis-ci.org/dgalunic/AlgebraBox)
 
 Algebra BOX is a cloud storage
 
